@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Reply to a paper intituled A true account of the unreasonableness of Mr. Fittons pretences against the Earl of Macclesfield</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39583</idno>
+            <idno type="STC">Wing F1067</idno>
+            <idno type="STC">ESTC R37818</idno>
+            <idno type="EEBO-CITATION">17049920</idno>
+            <idno type="OCLC">ocm 17049920</idno>
+            <idno type="VID">105840</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39583)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105840)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1615:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Reply to a paper intituled A true account of the unreasonableness of Mr. Fittons pretences against the Earl of Macclesfield</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fitton, Alexander, --  Sir, d. 1699.</term>
+               <term>Macclesfield, Charles Gerard, --  Earl of, 1618?-1694.</term>
+               <term>True account of the unreasonableness of Mr. Fittons pretences against the Earl of Macclesfield.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response">
+            <pb n="1" facs="tcp:105840:1" rendition="simple:additions"/>
+            <head>A REPLY TO A PAPER, INTITULED, <hi>A True Account of the <g ref="char:V">Ʋ</g>nreaſonableneſs of Mr.</hi> Fit<g ref="char:EOLhyphen"/>ton'<hi>s Pretences against the Earl of</hi> Macclesfield.</head>
+            <head type="sub">Whereas that Paper calls, Mr. <hi>Fitton</hi> a remote Kinſman; Obſerve, the Relation ſtands thus, Sir <hi>Edw. Fitton,</hi> Treaſurer of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> had Iſſue Sir <hi>Edw. Fitton,</hi> and <hi>Alexander;</hi> Sir <hi>Edward</hi> was Grand-father to the laſt Sir <hi>Edward,</hi> and <hi>Alexander</hi> was Grand-father to the Petitioner.</head>
+            <p>IT is alledged in the Paper, That Mr. <hi>Fitton</hi> had been but Four Years in Poſſeſſion, and that before that time the Earl of <hi>Macclesfield</hi> was in poſ<g ref="char:EOLhyphen"/>ſeſſion by vertue of the Will.</p>
+            <p>As to the <hi>Fitton</hi>'s Poſſeſſion, the Caſe ſtands thus: Sir <hi>Edward Fitton</hi> died in 1643. In 1647. <hi>William Fitton</hi> recovered the Poſſeſſion of the Mannor of <hi>Alford</hi> and <hi>Gawſworth</hi>-Park, which was all the Eſtate that was not in Mort<g ref="char:EOLhyphen"/>gage or Jointure. In 1652. the Mortgage was redeemed by Mr. <hi>Fitton,</hi> and about 1655. the Jointreſs died, and from that time he had poſſeſſion of that part of the Eſtate alſo.</p>
+            <p>As to the Earl's <hi>prior</hi> Poſſeſſion, the Fact is thus: He, together with the other Co-heirs, upon the death of Sir <hi>Edward Fitton</hi>'s Mother, did enter upon <hi>Alford,</hi> and receiv'd his ſeventh part of the Profits, as one of the Co-heirs, till the <hi>Fittons</hi> recovered the Eſtate from them; which is ſo far from being a Poſſeſſion under the Will, that it is a demonſtration he did not then believe there was any ſuch. And for many years in many Suits between the Co-heirs and the <hi>Fittons,</hi> as well when they were Plaintiffs as Defendants, the Earl was joined with them.</p>
+            <p>The 2d Matter alledged is, That the <hi>Chancery</hi> did no wrong to <hi>Fitton,</hi> by not ſuffering him to try the Title to the Will, becauſe upon his Anſwer he never conteſted it.</p>
+            <p>The falſity of this Allegation appears by the Words of the Anſwer; <hi>And theſe Defendant ſay, That they nor either of them Know or Believe, that Sir</hi> Edw. Fitton <hi>did make his Will in Writing, in the Bill mentioned, pretended to bear date,</hi> &amp;c. Which is a plain denial of it, and that the Earl took it to be ſo, is as plain by his endeavouring to prove the Will in the Cauſe.</p>
+            <pb n="2" facs="tcp:105840:2"/>
+            <p>The 3d Allegation in the Paper is, A pretended Anſwer to that which ever was and ever will be required in all Courts of Law and Equity, That the Plain<g ref="char:EOLhyphen"/>tiff muſt make out his own Title, before he be admitted to controvert the Title of the Defendant, who is in poſſeſſion. And therefore the Earl's Title being a Title at Law under the Will, which was deviſed, he ought to have made out that Title at Law, before he ſhould have been admitted to controvert the Deed-Poll, which was part of the Defendant's Title.</p>
+            <p>The next thing is, A cunning Inſinuation, as if to aſſert the Deed-Poll were a Reflection on the Judgments of the <hi>Houſe of Lords,</hi> given upon the Earl's complaint againſt <hi>Fitton</hi> and <hi>Granger</hi> about the Libel; which is a meer Fallacy, for that Paper might be juſtly cenſur'd as a Libel, and the publiſhing of it as a Crime, tho' every word of it was true, becauſe it was not aſſerted in a legal Courſe. And it is moſt true, that the Verdict was given upon <hi>Granger</hi>'s Evi<g ref="char:EOLhyphen"/>dence, and upon that of his Servants or Companions, who ſwore what <hi>Gran<g ref="char:EOLhyphen"/>ger</hi> told them.</p>
+            <list>
+               <head>
+                  <hi>In Anſwer to the</hi> pretended Circumſtances, <hi>to prove the</hi> FORGERY;</head>
+               <item>1. There was no occaſion to produce the Deed-Poll at any of the Tryals, with the Co-heirs, becauſe <hi>Fitton</hi>'s Title was under the Settlement, which they never pretended to be revoked.</item>
+               <item>2. There was no cauſe to produce it upon the Marriage-Treaty, for Mr. <hi>Fit<g ref="char:EOLhyphen"/>ton</hi>'s Wife's Relations looked on his Title as undoubted, he being in poſſeſſion upon three Judgments at Law, ſo that no Deeds at all were produced, but the Marriage took effect upon Articles.</item>
+               <item>3. <hi>William Jolliffe,</hi> 
+                  <abbr>Eſq</abbr> a Gentleman of Quality and undoubted Reputation, and divers others, proved, That they ſaw the Deed-Poll ſome years before the time that <hi>Granger</hi> ſwore he forged it.</item>
+               <item>4. As to the pretence, That <hi>Fitton</hi>'s Father knew nothing of the time, 'tis falſe, and affirm'd without proof.</item>
+               <item>5. The Witneſſes to the Deed-Poll, <hi>Rich. Davenport,</hi> 
+                  <abbr>Eſq</abbr> 
+                  <hi>Tho. Smalwood,</hi> and <hi>Edw. Barwick,</hi> Gent. were perſons of ſuch Credit, that the Earl never went about to impeach it. They, upon their Examination in the Cauſe in Chancery, ſwore, <hi>That they were preſent, and ſaw Sir</hi> Edw. Fitton <hi>Seal and Deliver, as his Act and Deed, the ſaid Deed then ſhewn to them, and that their Names endorſed on the Deed was their proper Hand-writing.</hi> Now 'tis not probable, that Witneſſes Names, who were all living, and ſtrangers to <hi>Fitton,</hi> ſhould be put to a Deed, ſuppoſed to be forged twenty years after the pretended Date.</item>
+               <item>6. 'Tis not at all ſtrange, that they ſhould not on the ſudden recollect the time and place of executing the Deed, it being after 20 Years, and they having been Witneſſes to divers Deeds ſeal'd by Sir <hi>Edw. Fitton.</hi>
+               </item>
+               <item>8. All the three Witneſſes did afterwards recollect themſelves, and fre<g ref="char:EOLhyphen"/>quently in their Life-time, and ſeverally on their Death-beds, declared, they perfectly remembred the Time and the preciſe Place where the Deed was ſeal'd, <hi>viz. In the Compaſs-Window in the Hall in</hi> Gawſworth-<hi>houſe.</hi> Therefore let any Man that can believe that Mr. <hi>Davenport</hi> asked Pardon for ſwearing that he was a Witneſs to the Executing the Deed, when he died affirming it.</item>
+               <item>9. As to the nature of <hi>Granger</hi>'s Evidence, If it were true, he muſt be a great Villain, and guilty of Forgery, and 'tis conſiderable what Credit he ought to have who ſwears himſelf at that inſtant to deſerve none. And <hi>Granger</hi> himſelf, from the time of that Tryal till his Death, which was very lately, own'd, That he never ſaw <hi>Fitton</hi> till the Morning when the Tryal was had, and that one was then employ'd to ſhew him <hi>Fitton,</hi> as he came into <hi>Weſtminſter-hall.</hi> And at his Death confeſs'd, That of all the Villanies of his Life, that which troubled him moſt was the wrong he had done <hi>Fitton,</hi> in ſwearing he forged the Deed-Poll, of which there are many Witneſſes beyond all exception. And if <hi>Granger</hi> could deſerve Credit, in behalf of the Earl, after he had own'd himſelf guilty of Forgery, he may be allow'd to Deſerve as much Credit, in behalf of <hi>Fitton,</hi> after he had been guilty of Perjury; Eſpecially when the very perſons con<g ref="char:EOLhyphen"/>cerned in ſuborning <hi>Granger,</hi> and who paid him for it, confeſs their knowledge of the Fact.</item>
+               <pb n="3" facs="tcp:105840:2"/>
+               <item>10. As to what the Anſwer call an Evidence from the nature of the thing that it was improbable Sir <hi>Edw. Fitton,</hi> who was married, and in a poſſibility of having Children, ſhould releaſe his Power of Revocation. It is to be obſerved, That Sir <hi>Edward</hi> continued Tenant in Tail after the Releaſe, and ſo might cut off the Remainders by a Recovery, if he had Iſſue; but 'tis probable, it was done to prevent any ſudden act he might be prevail'd upon to do, to the pre<g ref="char:EOLhyphen"/>judice of his Heir-Male, by the Importunity of his Siſters, who were his Heirs; and alſo to eſtabliſh and ſtrengthen his Settlement, (the Times grow<g ref="char:EOLhyphen"/>ing ill, and he being about to enter into the War) which would have ſignified nothing, as to the ſaving his Eſtate in his Family, if he had had a power to revoke it.</item>
+            </list>
+            <p>In Anſwer to the fifth Objection, 'tis plain, the Poſſeſſion, and Deeds and Account of the Profits, were Decreed before any Tryal was had upon the Will, and before the Tryal which the Chancery it ſelf thought fit to allow, which was plainly before the Cauſe was Determined. 'Tis alſo evident, that the Deed was at firſt ſent with prejudice to be Tryed, for it was called a pretended Deed.</p>
+            <p>Nothing can be more frivolous than the ſixth Allegation, that the Right of Inheritance was not touch'd, but only the Perſon bound by the Decree. For all Deeds were taken from Mr. <hi>Fitton,</hi> together with the Poſſeſſion, and the Deed-Poll Cancelled, and he Decreed to have no farther Tryal, and he that has no Remedy, has no Right, or at leaſt his Right can do him no good.</p>
+            <p>Whether the Court of Chancery has exceeded their Power, is now the Que<g ref="char:EOLhyphen"/>ſtion before the Lords; and therefore to draw Arguments from the Judgment of the Lord Chancellor or Lord Keeper, is begging the Queſtion, and is indeed to make an Argument: Which if it have any force at all, will indifferently ſerve againſt all Appeals to the Lords, the Juriſdiction of this Great Court being founded upon a ſuppoſition that Chancellors and Keepers may miſtake. Beſides, the now Lord Keeper, being prevented by a Plea and Demurrer, could never look into the Proofs in the Cauſe.</p>
+            <p>That the Decree is larger than the Plaintiffs Petition will be obvious to any Perſon who looks on both, nothing is pray'd, but to ſet aſide the Leaſe, and to be at Liberty to examine Witneſſes to the Will. But the Decree is for the Poſſeſſion, for an Account of Profits, for Delivering up and Vacating Deeds, and does exclude the Defendant from Trying his Right at Law for the future.</p>
+            <p>The pretended Anſwer divides the Proofs of the Will into three Heads.</p>
+            <p>As to the firſt, which mentions Sir <hi>Edward</hi>'s Intention, to ſettle his Eſtate on the Earl of <hi>Macclesfield,</hi> Mr. <hi>Manwairing,</hi> the firſt Perſon named, had for many Years together been in Suit; which Mr. <hi>Fitton,</hi> as one of the Co-heirs of Sir <hi>Edward,</hi> and therefore could not believe there was a Will. And Sir <hi>John Trevor,</hi> Mr. <hi>Davenport,</hi> and other Perſons of undoubted Credit, did fully prove in the Cauſe, that Sir <hi>Edward</hi> did ever intend to keep the Eſtate in the Name, and to ſettle it on <hi>William Fitton,</hi> and ſent for him out of <hi>Ireland</hi> for that pur<g ref="char:EOLhyphen"/>poſe, and declared, that rather than a <hi>Fitton</hi> ſhould not have it, he would leave it to <hi>Ned Fitton</hi> the Bang-beggar. Nor could Sir <hi>Edward Fitton</hi> conceive any prejudice againſt <hi>William Fitton,</hi> becauſe he was engaged in the <hi>Iriſh</hi> or <hi>Engliſh</hi> Rebellion, ſince'tis utterly falſe, that he was engaged in either, being well known to be a Gentleman of very Loyal Principles. And <hi>Philip Pritchard,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Ralph Jamon</hi> and <hi>Thomas Cowley, William Sweetenham, Edmund Barwick, Ed<g ref="char:EOLhyphen"/>ward Gardiner</hi> and <hi>John Snelſon</hi> prove, that when Sir <hi>Edward Fitton,</hi> upon his Death-bed, was ſollicited by Earl <hi>Rivers</hi> and Mr. <hi>Davenport,</hi> to ſettle his Eſtate upon the Lord <hi>Gerrard,</hi> he abſolutely refuſed it. And <hi>John Cowley</hi> and ano<g ref="char:EOLhyphen"/>ther, proves, that when the Earl of <hi>Dorſet,</hi> and Earl <hi>Rivers</hi> at <hi>Oxford,</hi> at ſe<g ref="char:EOLhyphen"/>veral times, about three Months before his Death, importun'd Sir <hi>Edward Fit<g ref="char:EOLhyphen"/>ton,</hi> to ſettle his Eſtate on the Lord <hi>Gerrard;</hi> he made anſwer, he could not do it, having ſettled it before on the <hi>Fittons:</hi> Which is, in effect, a proof that Sir <hi>Edward Fitton</hi> own'd he had Releas'd his Power of Revocation.</p>
+            <p>As to the ſecond Head, the Witneſſes, who ſpoke poſitively to the Will, were two, Dr. <hi>Smallwood</hi> and <hi>Hollingshead.</hi>
+            </p>
+            <pb n="4" facs="tcp:105840:3" rendition="simple:additions"/>
+            <p>
+               <hi>Smallwood</hi> being Examined as a Witneſs, in a Cauſe in Chancery, between the Co-heirs and Mr. <hi>Fitton,</hi> did Depoſe, that he knew not of any Settlement made by Sir <hi>Edward Fitton,</hi> by Deed, Will, or otherwiſe; which Oath of his muſt be falſe, if he had at that time the Will in his Doublet, where he preten<g ref="char:EOLhyphen"/>ded to have carried it ſeventeen Years.</p>
+            <p n="2">2. Whereas (according to the Settlement) <hi>Edward,</hi> the Eldeſt Son of <hi>William Fitton,</hi> at his Age of fourteen Years, tendred himſelf to marry the Lord <hi>Brereton</hi>'s Daughter; <hi>Smallwood</hi> being then his Domeſtick Chaplain, per<g ref="char:EOLhyphen"/>ſuaded the Lord <hi>Brereton</hi> to marry his Daughter to him, which he could not do, without the baſeſt Infidelity, if he knew the Eſtate was given away from the <hi>Fittons.</hi>
+            </p>
+            <p>As to <hi>Hollingſhead,</hi> he was the Perſon who treated a Marriage between <hi>Ed<g ref="char:EOLhyphen"/>ward,</hi> the Eldeſt Son of <hi>William Fitton,</hi> and the Daughter of <hi>William Jolliff,</hi> 
+               <abbr>Eſq</abbr> (which was prevented by <hi>Edwards</hi> Death) and who after treated a Marriage between the Petitioner and the Daughter of <hi>Thomas Jolliff,</hi> 
+               <abbr>Eſq</abbr> and upon both thoſe Treaties, he conſtantly affirmed the Title of the <hi>Fittons</hi> under the Settle<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="2">2. After the Marritge had taken effect, he preſſed the Petitioner for a Leaſe of a Farm, part of the Lands in queſtion, and offered a conſiderable Fine for ſuch Leaſe, which he would not have done, if he knew the Petitioner had no Title, and he often affirmed that he was preſent when Earl <hi>Rivers</hi> preſs'd Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Fitton,</hi> to ſettle his Eſtate on the Plaintiff; which he refuſed.</p>
+            <p>He alſo adviſed others to renew their Leaſes from Mr. <hi>Fitton,</hi> which they did thereupon.</p>
+            <p>And notwithſtanding, it is alledged with ſo much aſſurance, that the Will was clearly Proved at the Tryal at <hi>Cheſter,</hi> Sir <hi>Job Charlton</hi> (before whom the Cauſe was Tryed) directed the Jury that they ought to have no regard to <hi>Hol<g ref="char:EOLhyphen"/>linſhead</hi>'s Teſtimony, as a Perſon not credible, and that the only Evidence for the Will was Dr. <hi>Smallwood,</hi> if they did believe him.</p>
+            <p>As to the reſt of the Witneſſes, who ſpeak to <hi>Hollingſhead</hi>'s Report, their Te<g ref="char:EOLhyphen"/>ſtimony falls together with <hi>Hollingſheads.</hi>
+            </p>
+            <p>'Tis true, there was an Information of Perjury Exhibited againſt <hi>Smallwood</hi> and <hi>Hollingſhead,</hi> but Mr. <hi>Fittons</hi> moſt material Witneſſes, being then beyond Sea, when the Cauſe was to be Tryed, and the Court refuſing to put off the Tryal, no Evidence at all was given, and the Defendants acquitted of courſe.</p>
+            <p>As to that Objection, which may at firſt ſeem plauſible, that it will be a hard<g ref="char:EOLhyphen"/>ſhip upon the Earl, to come to a Tryal after ſo long a time, if it be examined, it will appear to have to weight in it. For the Queſtion being upon the reality of the Will, and the Earl's Witneſſes, having been all Examined, their Depoſi<g ref="char:EOLhyphen"/>tions remain for his advantage, and they cannot be croſs-examined by the Court, which they might have been, if they were yet alive, and that is only to the diſadvantage of Mr. <hi>Fitton.</hi>
+            </p>
+            <p>There is no time of limitation fixed in caſe of an Appeal from an Erroneous Decree. In this Caſe the Plaintiff and Defendant are ſtill living: Mr. <hi>Fitton</hi> has been Priſoner, almoſt ever ſince the Decree, but has made Entries and Claims on Record from time to time, though under a diſability, not only to Proſecute this Suit, but another Suit upon a Mortgage of part of the Lands in queſtion, which he might have done, (if able) at a much leſs charge than bring on this Cauſe.</p>
+            <p>The Tryal had at <hi>Cheſter</hi> is much inſiſted on, but if the Fact were ſtated, would have little weight with it.</p>
+            <p>Mr. <hi>Fitton</hi> was then a Priſoner, the Seſſions appointed in Term-time, all the Principal Council below retain'd by the Earl, and Mr. <hi>Fitton</hi> could get no Council in <hi>London,</hi> to leave the Term to go to that Tryal; nor could he pre<g ref="char:EOLhyphen"/>vail with divers of his material Witneſſes to go down. All which appears, by ſeveral Affidavits made in Chancery, before the Tryal, and in order to put if off. And at the Tryal, he loſt the uſe of ſeveral Witneſſes who were dead, being not ſuffered to read their Depoſitions, becauſe the Bill and Anſwer in the Cauſe were forgotten to be brought down, as appears by another Affidavit made in the ſame Court for a new Tryal.</p>
+            <pb facs="tcp:105840:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
